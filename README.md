@@ -79,7 +79,7 @@ This is **v1** of the app, designed with clean architecture and reusable compone
 
 ## 📸 Screenshots
 
-![Desktop Screenshot](https://raw.githubusercontent.com/mohammadmahdi-jalali/TODO-List-NextJS/main/public/screenshots/desktop-view.png)
+![Desktop Screenshot](https://github.com/mohammadmahdi-jalali/TODO-List-NextJS/blob/main/todolist/public/Screenshots/desktop-view.PNG)
 
 
 ---
