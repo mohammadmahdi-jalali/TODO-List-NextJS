@@ -1,0 +1,52 @@
+.editBtn :hover{
+  cursor: pointer;
+
+}
+.editBtn{
+  width: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+}
+.delteBtn{
+  width: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+  margin-left: -10px;
+  margin-right: 10px;
+}
+.delteBtn:hover{
+  cursor: pointer;
+}
+.todoItem{
+    width :100%;
+    display: flex;
+    justify-content: space-between;
+    opacity: 30%;
+
+    font-size: 12px;
+    text-align: center;
+    color: rgba(0,0,0,0.8);
+    font-family:Tahoma, "Trebuchet MS", sans-serif ;
+
+}
+.deleteIcon{
+    width:10px;
+    height: 10px;
+
+    
+    
+}
+.editIcon{
+    width:10px;
+    height: 10px;
+    
+}
+.todoItem p{
+    width: 5%;
+    max-width: 8%;
+    text-align: center;
+}
